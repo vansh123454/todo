@@ -1,0 +1,26 @@
+h1{
+  font-weight:bolder;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 60px;
+  margin: 10px;
+  margin-bottom: 25px;
+}
+
+input{
+  width: 100%;
+}
+.items-container{
+  text-align: left;
+}
+
+.kg-row{
+  margin: 15px;
+}
+
+.kg-button{
+  width: 100px;
+}
+
+#add-btn{
+  margin-right: 100px;
+}
